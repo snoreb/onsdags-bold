@@ -5,9 +5,10 @@
     export let uniDegree = "";
     export let description = "";
     export let stats = "";
+
+    // TODO: add Biteflow cards instead of the chatgpt generated cards
 </script>
 
-  
   <div class="flex flex-col items-center bg-white shadow-lg rounded-lg overflow-hidden w-500 h-50 object-fill"> <!-- Adjust width and height as needed -->
     <img src={img} class="aspect-square object-cover" alt="{title}" />
     <div class="p-4 flex flex-col h-full">

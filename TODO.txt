@@ -1,0 +1,11 @@
+Thoughts:
+
+Først match: Snoreb, Søren, Mads Esbjerg, Miklas VS Gustav, Jonathan, Viktor
+
+match history > players > 
+Simpel måde at tilføje en match history, start med bare at kode den enkeltvist
+
+Winrate
+Match history
+
+Database?
